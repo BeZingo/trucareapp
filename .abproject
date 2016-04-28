@@ -1,0 +1,45 @@
+{
+  "ProjectName": "TruCare",
+  "ProjectGuid": "e547e7c3-9120-4205-a35f-a6a7927e942e",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.TruCare",
+  "DisplayName": "TruCare",
+  "Author": "",
+  "Description": "TruCare",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "4.0.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{58aa039e-bdb9-40de-b741-7e44a0b9c22f}",
+  "WP8ProductID": "{564bb85d-5a5a-4209-b65c-e648fc993476}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.TruCare",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
